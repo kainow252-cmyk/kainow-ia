@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kainow-ia",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "kainowapp",
+			"database_id": "6ec8bc5b-5aaa-4655-93e7-3b6dbf0f117d"
+		}
+	]
+}
